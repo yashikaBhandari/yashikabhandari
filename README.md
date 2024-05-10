@@ -4,7 +4,7 @@
 
 
 
-<h3 align ="center"> Engineering student with good problem skills and ability to work well in a team. 
+<h3 align ="center"> Engineering student with good problem solving skills and ability to work well in a team. 
   Highly motivated to upgrade my skills and looking forward with opportunities </h3>
 
 - 🔭 I’m currently working on **AI & ML**
