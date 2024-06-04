@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashika Bhandari</h1>
 <h2 align="center">A passionate software developer </h2>
-<img align =“center” alt=“coding” width=“400” src=https://media1.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.webp?cid=790b76114xjxs8lgyjj6iiaqisq1bkz9g8yshmevub5iuk7f&ep=v1_gifs_search&rid=giphy.webp&ct=g>
-
+<img align =“center” alt=“coding” width=“400” src=https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif
+>
 
 
 <h3 align ="center"> Engineering student with good problem solving skills and ability to work well in a team. 
